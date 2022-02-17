@@ -1,0 +1,7 @@
+const nombre1 = prompt ("Ingres tu nombre")
+const fe = prompt ("Ingresa tu fecha de nacimiento")
+let edad1 = prompt ("Ingresa tu edad:")
+let direccion = prompt ("Ingresa tu dirección")
+let precio = prompt ("¿Cual es el precio del bolillo en tu localidad?")
+const clave = prompt ("Cual es tu clave de elector")
+const pet = prompt ("Cual es el nombre de su mascota")
